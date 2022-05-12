@@ -12,4 +12,7 @@
 /.eShopSolutionWEBAPP1/bin/*
 /.eShopSolutionWEBAPP1/obj/*
 /.vs/demonetcore3.1/v17/.suo
-/.vs/eShopSolution/v17/.suo
+/.vs/*
+/eShopSolution.Application/obj/Debug/netcoreapp3.1
+/eShopSolution.Data/obj/Debug/netcoreapp3.1
+/eShopSolutionWEBAPP1/obj/Debug/netcoreapp3.1
