@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\eShopSolution\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csproj.CoreCompileInputs.cache

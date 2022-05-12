@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y5MR11jFTa6JXMUQhts9sfboaQSNIkYIrBzXXpj2Gqm8OmQs83LUO3ton91j7s6poP+TO42XVnXktr3YKY/uRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\eShopSolution\\eShopSolutionWEBAPP1\\eShopSolutionWEBAPP1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
