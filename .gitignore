@@ -2,5 +2,14 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs/demonetcore3.1/v17
+/.eShopSolution.Application/bin/*
+/.eShopSolution.Application/obj/*
+/.eShopSolution.Data/bin/*
+/.eShopSolution.Data/obj/*
+/.eShopSolutionWebApp/bin/*
+/.eShopSolutionWebApp/obj/*
+/.eShopSolutionWEBAPP1/bin/*
+/.eShopSolutionWEBAPP1/obj/*
 /.vs/demonetcore3.1/v17/.suo
 /.vs/eShopSolution/v17/.suo
